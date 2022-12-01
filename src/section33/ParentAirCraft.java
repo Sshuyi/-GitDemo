@@ -4,6 +4,7 @@ public abstract class ParentAirCraft { // if their is one class defined as abstr
 
 	public void engine() {
 		System.out.println("Follow Engine Guidelines");
+		System.out.println("Hey hey hey");
 	}
 	
 	public void safetyGuidelines() {
