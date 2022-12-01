@@ -9,6 +9,10 @@ public abstract class ParentAirCraft { // if their is one class defined as abstr
 	
 	public void safetyGuidelines() {
 		System.out.println("Follow Safety Guidelines");
+		System.out.println("Follow Safety Guidelines");
+		
+		
+		System.out.println("how about htis");
 	}
 	
 	public abstract void bodyColor();
